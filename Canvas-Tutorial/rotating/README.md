@@ -1,4 +1,4 @@
-## [CLICK ME](https://ihohyeon.github.io/interactive-practice/Canvas-Tutorial/rotating)
+## [DEMO](https://ihohyeon.github.io/interactive-practice/Canvas-Tutorial/rotating)
 
 ### clone reference
 

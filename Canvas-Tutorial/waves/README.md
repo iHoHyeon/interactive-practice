@@ -1,4 +1,4 @@
-## [CLICK ME](https://ihohyeon.github.io/interactive-practice/Canvas-Tutorial/waves)
+## [DEMO](https://ihohyeon.github.io/interactive-practice/Canvas-Tutorial/waves)
 
 ### clone reference
 
